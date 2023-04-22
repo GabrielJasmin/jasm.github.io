@@ -1,0 +1,23 @@
+html{font-size: 48px;
+font-family: "quicksand",sans-serif;
+background-color: rgb(205, 231, 231);}
+h1{font-size: 36px;
+text-align: center;
+color: darkorange;
+margin: 0;
+padding:20px 0;
+text-shadow: 3px 3px 1px black;}
+p, li{font-size: 16px;
+line-height: 2;
+letter-spacing: 1px;}
+h2{font-size: 32px;
+color: coral;}
+h3{font-size: 21px;
+color: chocolate;}
+body{width: 600px;
+margin: 0 auto;
+background-color: mintcream;
+padding: 0 25px 25px 25px;
+border: 5px solid black;}
+image{margin: 0 auto;
+align-content: center}
